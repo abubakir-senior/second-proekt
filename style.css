@@ -1,0 +1,350 @@
+.sayt{
+margin: 0;
+padding: 0;
+}
+.m1{
+float: left;
+margin-left: 50px;
+
+}
+.m1 img{
+    margin-left: 15px;
+}
+
+.blok1{
+float: left;
+}
+.blok2{
+  float: left; 
+  margin-left: 30px;
+ 
+}
+.blok2 a{
+    text-decoration: none;
+    color: grey;
+    /* float: right; */
+    padding-left: 15px;
+}
+.blok2 a:hover{
+    color: blue;
+    clear: both;
+}
+.m2{
+    float: right;
+    /* margin-right: 250px; */
+    float: right;
+    
+}
+.blok3 img{
+    float: right;
+    border: 1px solid grey;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    /* margin-right: 25px; */
+    
+}
+.b{
+    clear: both;
+}
+.m4{
+    /* float: left; */
+    margin-top: 50px;
+}
+.blok4{
+    float: left;
+}
+.blok4 img{
+    margin-left: 200px;
+}
+.blok5{
+    float: right;
+    /* margin-right: 150px; */
+    
+}
+.blok5 a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+
+}
+
+.blok6{
+    float: right;
+   
+}
+.blok6 img{
+     /* margin-right: 145px; */
+     margin-top:3px;
+}
+.w{
+    margin-right: 150px;
+}
+.w a:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.m5{
+    width: 1890px;
+    height: 330px;
+    background-color: aqua;
+    /* display: block; */
+}
+.bolim{
+    display: block;
+    position: relative;
+}
+.s{
+    clear: both;
+}
+.nex1{
+    position: absolute;
+    margin-left: 1700px;
+}
+.nex1 ul li{
+    list-style: none;
+}
+.nex1 ul li:nth-last-of-type(3){
+    margin: 0px 0px 0px 20px;
+}
+.lor{
+    margin-top: 200px;
+    margin-left: 600px;
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+}
+.lor b{
+    font-size: 50px;
+   
+}
+.lor img{
+    border-radius: 50%;
+}
+.h{
+    clear: both;
+}
+.box1{
+    width: 300px; 
+    height: 300px; 
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 20px 0px 0px 50px;
+}
+.box1 img{
+    margin-left: 90px;
+}
+.box1 b{
+    width: 10px;
+    /* text-align: initial; */
+    margin-left: 50px;
+}
+.box1 strong{
+    margin-left: 90px;
+}
+.box1 a{
+    margin-left: 90px;
+    text-decoration:none;
+    color: blue;
+}
+.box1 {
+    float: left;
+}
+.box1:nth-of-type(5){
+    float: right;
+}
+.clr{
+    clear: both;
+}
+.bolim3{
+    width: 1880px;
+    height: 470px;
+    background-color: rgb(222, 222, 228);
+    
+}
+.squar{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(3, 180, 230);
+}
+.alf h3{
+    margin-left: 10px;
+}
+.alf small{
+    margin-left: 30px;
+}
+
+.qator4{
+    float: left;
+    margin-left: 20px;
+}
+.clr2{
+    clear: both;
+}
+
+
+
+.bolim5{
+    width: 1900px;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+.satr1{
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+.satr2{
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+.satr3{
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+.satr4{
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+.satr1 strong{  
+    font: 20px;
+}
+.satr1 b{
+    color: blue;
+}
+.satr2 img{
+    float: left;
+    margin-top: 8px;
+    width: 70px;
+    margin-left: 20px;
+}
+.satr2 p{
+    width: 300px;
+    float: right;
+    margin-right: 50px;
+}
+.n{
+    clear: both;
+}
+
+.d{
+    height: 120px;
+    border-bottom: 1px solid grey;
+}
+.d b{
+    margin-right: 265px;
+    float: right;
+}
+.m{
+    color: blue;
+}
+.c b{
+    float: right;
+    margin-right: 265px;
+}
+.veb{
+    width: 400px;
+    height: 20px;
+    background-color: rgb(254, 254, 254);
+    float: left;
+    border-radius:10px;
+    
+}
+.v{
+    float: left;
+    height: 20px;
+    width: 300px;
+    background-color: blue;
+    border-radius:10px ;
+
+}
+.prog{
+    width: 400px;
+    height: 20px;
+    background-color: rgb(254, 254, 254);
+    float: left;
+    border-radius:10px;
+    
+}
+.ra{
+    float: left;
+    height: 20px;
+    width: 250px;
+    background-color: blue;
+    border-radius:10px ;
+
+}
+.word{
+    width: 400px;
+    height: 20px;
+    background-color: rgb(254, 254, 254);
+    float: left;
+    border-radius:10px;
+    
+}
+.pres{
+    float: left;
+    height: 20px;
+    width: 200px;
+    background-color: blue;
+    border-radius:10px ;
+
+}
+.mar{
+    width: 400px;
+    height: 20px;
+    background-color: rgb(254, 254, 254);
+    float: left;
+    border-radius:10px;
+    
+}
+.keting{
+    float: left;
+    height: 20px;
+    width: 150px;
+    background-color: blue;
+    border-radius:10px ;
+
+}
+input:nth-of-type(1){
+    width: 300px;
+    background:white url('../img/p.png') no-repeat right center;
+    background-size: 20px;
+}
+input:nth-of-type(2){
+    width: 300px;
+    background:white url('../img/email.png') no-repeat right center;
+    background-size: 15px;
+}
+input:nth-of-type(3){
+    width: 300px;
+    height: 200px;
+}
+.satr4 button{
+    float: left;
+    border-radius:20px;
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+.satr4 a{
+    margin-top: 10px;
+    margin-right: 150px;
+    text-decoration: none;
+    color: blue;
+    float: right;
+}
+.qator1 h2{
+    margin-top: 50px;
+}
